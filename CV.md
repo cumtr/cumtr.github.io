@@ -11,10 +11,10 @@ subtitle: Where you can learn more about me
 	Supervisor: Goudet Jerôme, PhD
 
 - Attaché temporaire d’Enseignement et de Recherche –Laboratory of Alpine Ecology (LECA), Université Grenoble Alpes, Grenoble (France)
-Oct 2017 – Sep 2018
+October 2017 – September 2018
 
 - PhD student – Laboratory of Alpine Ecology (LECA), Université Grenoble Alpes, Grenoble (France)
-Sep 2014 – Dec 2017
+September 2014 – December 2017
 Supervisors: Pompanon François, PhD and Boyer Frederic, PhD
 
 - Research assistant - Laboratory of Alpine Ecology (LECA), Université Grenoble Alpes, Grenoble (France)
@@ -70,26 +70,25 @@ Jun 2016– JOBIM- National Congress – Talk
 
 •	University (Grenoble & Lausanne):
 
-Lectures 
-	- 2017		Quantitative Genetics [1st year Master]
+- Lectures 
+	- 2017		Quantitative Genetics (1st year Master)
 
-Tutorial classes
-	- 2019-2023    Population Genetics [2nd year Undergrad]
-	- 2020-2021     Population dynamic and genetics [1st year Master]
-	- 2015-2018	Ecology [2nd year Undergrad]
-	- 2017		Quantitative Genetics [1st year Master]
-	- 2018 		Evolution [1st year Undergrad]
+- Tutorial classes
+	- 2019-2023    Population Genetics (2nd year Undergrad)
+	- 2020-2021     Population dynamic and genetics (1st year Master)
+	- 2015-2018	Ecology (2nd year Undergrad)
+	- 2017		Quantitative Genetics (1st year Master)
+	- 2018 		Evolution (1st year Undergrad)
 
-Practical classes
-	- 2020-2022   Molecular Methods in Ecology and Evolution [1st year Master]
-	- 2015-2017	Molecular biology [1st year Master]
-	- 2016		Quantitative Genetics [1st year Master]
-	- 2018 		Ecology [2nd and 3rd year Undergrad]
+- Practical classes
+	- 2020-2022   Molecular Methods in Ecology and Evolution (1st year Master)
+	- 2015-2017	Molecular biology (1st year Master)
+	- 2016		Quantitative Genetics (1st year Master)
+	- 2018 		Ecology (2nd and 3rd year Undergrad)
 
-
-Field classes
-	- 2015–2017	Ecology [1st year Master]
-	- 2018 		Ecology [2nd and 3rd year Undergrad]
+- Field classes
+	- 2015–2017	Ecology (1st year Master)
+	- 2018 		Ecology (2nd and 3rd year Undergrad)
 
 •	Student supervision:
 
