@@ -1,7 +1,7 @@
 ---
 layout: page
-title: List of pubilcations
-subtitle: 
+title: 
+subtitle: List of pubilcations
 ---
 
 
