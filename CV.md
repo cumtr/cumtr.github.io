@@ -41,7 +41,7 @@ Supervisor: Pompanon François, PhD
 Feb 2023 – Biology 23 - National Congress - Talk
 *The genomic architecture of the color polymorphism in the European barn owl (Tyto alba).*
 
-Jan 2020 - Population Genetics Group 54, Liverpool, UK - International Congress - Talk
+Jan 2022 - Population Genetics Group 54, Liverpool, UK - International Congress - Talk
 *Islands of speciation and speciation on islands: Barn owl (Tyto alba) of the Canary as a case study.*
 
 Aug 2022 – Congress of the European Society For evolutionary biology - International Congress - Poster
@@ -53,7 +53,7 @@ May 2022 – Institute of Ecology and Evolution, Bern University – Invited tal
 Feb 2022 – Biology 22 - National Congress - Talk
 *Islands of speciation and speciation on islands: Barn owl (Tyto alba) of the Canary as a case study.*
 
-Jan 2020 - Population Genetics Group 54, Liverpool, UK - International Congress – Talk
+Jan 2020 - Population Genetics Group 53, Liverpool, UK - International Congress – Talk
 *Genomic Tales: An history of European Barn Owl.*
 
 Jan 2017 – Plant and Animal Genomes XXV, San Diego, USA - International Congress - Talk
@@ -71,39 +71,39 @@ Jun 2016– JOBIM- National Congress – Talk
 •	University (Grenoble & Lausanne):
 
 Lectures 
-	2017		Quantitative Genetics [1st year Master]
+	- 2017		Quantitative Genetics [1st year Master]
 
 Tutorial classes
-	2019 -2023    Population Genetics [2nd year Undergrad]
-	2020-2021     Population dynamic and genetics [1st year Master]
-	2015 - 2018	Ecology [2nd year Undergrad]
-	2017		Quantitative Genetics [1st year Master]
-	2018 		Evolution [1st year Undergrad]
+	- 2019-2023    Population Genetics [2nd year Undergrad]
+	- 2020-2021     Population dynamic and genetics [1st year Master]
+	- 2015-2018	Ecology [2nd year Undergrad]
+	- 2017		Quantitative Genetics [1st year Master]
+	- 2018 		Evolution [1st year Undergrad]
 
 Practical classes
-	2020 - 2022   Molecular Methods in Ecology and Evolution [1st year Master]
-	2015 - 2017	Molecular biology [1st year Master]
-	2016		Quantitative Genetics [1st year Master]
-	2018 		Ecology [2nd and 3rd year Undergrad]
+	- 2020-2022   Molecular Methods in Ecology and Evolution [1st year Master]
+	- 2015-2017	Molecular biology [1st year Master]
+	- 2016		Quantitative Genetics [1st year Master]
+	- 2018 		Ecology [2nd and 3rd year Undergrad]
 
 
 Field classes
-	2015 – 2017	Ecology [1st year Master]
-	2018 		Ecology [2nd and 3rd year Undergrad]
+	- 2015–2017	Ecology [1st year Master]
+	- 2018 		Ecology [2nd and 3rd year Undergrad]
 
 •	Student supervision:
 
-2017 – C. Her. Genomic structural variations and local adaptation of Moroccan sheep
-2020 – H. Corval. Genomic bases of local adaptation in the barn owl (Tyto alba)
-2022 – M. Serrano. Characterization of the MT genome of the barn owl (Tyto Alba)
-2023 – P. Kergoat. Development and application of a novel method to detect selection with genomic data.
-2023 – R. Saenger Irias. Genomic history of the color variation of the barn owl (Tyto alba)
+- 2017 – C. Her. Genomic structural variations and local adaptation of Moroccan sheep
+- 2020 – H. Corval. Genomic bases of local adaptation in the barn owl (Tyto alba)
+- 2022 – M. Serrano. Characterization of the MT genome of the barn owl (Tyto Alba)
+- 2023 – P. Kergoat. Development and application of a novel method to detect selection with genomic data.
+- 2023 – R. Saenger Irias. Genomic history of the color variation of the barn owl (Tyto alba)
 
 •	Schools:
 
-2020 & 2022 - Summer Institute in Statistical Genetics (SISG) – Seattle
+- 2020 & 2022 - Summer Institute in Statistical Genetics (SISG) – Seattle
 	Teaching Assistant
-2018 & 2020 – SIU and Forbio International course in DNA Metabarcoding – Tromso
+- 2018 & 2020 – SIU and Forbio International course in DNA Metabarcoding – Tromso
 	 Teaching assistant
 
 ## SKILLS & LANGUAGES
