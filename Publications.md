@@ -18,7 +18,7 @@ AP Machado, **et al.** “Genomic consequences of colonization, migration and ge
 
 AP Machado, **et al.** “Unexpected post-glacial colonization route explains the white color of barn owls (Tyto alba) from the British Isles”, *Molecular Ecology*, 2021.
 
-**T Cumer**, , et al. “Genome-wide detection of structural variations reveals new regions associated with domestication in small ruminants”, *Genome Biology and Evolution*, 2021.
+**T Cumer**, et al. “Genome-wide detection of structural variations reveals new regions associated with domestication in small ruminants”, *Genome Biology and Evolution*, 2021.
 
 J Cattel, **et al.** “A genomic amplification affecting a carboxylesterase gene cluster confers organophosphate resistance in the mosquito Aedes aegypti: From genomic characterization to high‐throughput field detection”, *Evolutionary applications*, 2021.
 
