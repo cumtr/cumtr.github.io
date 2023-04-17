@@ -22,7 +22,7 @@ AP Machado, **et al.** “Unexpected post-glacial colonization route explains th
 
 J Cattel, **et al.** “A genomic amplification affecting a carboxylesterase gene cluster confers organophosphate resistance in the mosquito Aedes aegypti: From genomic characterization to high‐throughput field detection”, *Evolutionary applications*, 2021.
 
-**T Cumer***, C Pouchon* et al. “Double-digest RAD-sequencing: do pre-and post-sequencing protocol parameters impact biological results?” *Molecular Genetics and Genomics*, 2021.
+**T Cumer** **\***, C Pouchon* et al. “Double-digest RAD-sequencing: do pre-and post-sequencing protocol parameters impact biological results?” *Molecular Genetics and Genomics*, 2021.
 
 S Sherpa, **et al.** “Unravelling the invasion history of the Asian tiger mosquito in Europe”, *Molecular Ecology*, 2019.
 
@@ -38,10 +38,10 @@ KG. Daly, **et al.** "Ancient goat genomes reveal mosaic domestication in the Fe
 
 **T Cumer**, et al. “Characterization of the diversity of barn owl’s mitochondrial genome reveal high copy number variations in the Dloop.”
 
-**T Cumer***, AP Mahcado*, L.M. San-Jose* et al. “ The genomic architecture of a continuous color polymorphism in the European barn owl (Tyto alba)”
+**T Cumer** **\***, AP Mahcado*, L.M. San-Jose* et al. “ The genomic architecture of a continuous color polymorphism in the European barn owl (Tyto alba)”
 
-H. Corval*, **T Cumer***, et al. “ Where and when local adaptation happens: lessons from the European barn owl (Tyto alba)” 
+H. Corval*, **T Cumer** **\***, et al. “ Where and when local adaptation happens: lessons from the European barn owl (Tyto alba)” 
 
-* Co-First author if the publication
+**\*** Co-First author if the publication
  
 
