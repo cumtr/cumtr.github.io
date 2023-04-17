@@ -44,6 +44,6 @@ H. Corval*, **T Cumer** **\***, et al. “ Where and when local adaptation happe
 
 **T Cumer**, et al. “Characterization of the diversity of barn owl’s mitochondrial genome reveal high copy number variations in the Dloop.” 
 
-**\*** Co-First author if the publication
+**\*** Co-First author of the publication
  
 
