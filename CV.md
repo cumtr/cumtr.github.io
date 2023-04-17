@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 
-subtitle: Curiculum Vitae
+title: Curiculum Vitae
+subtitle: 
 ---
 
 ## RESEARCH EXPERIENCE
