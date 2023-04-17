@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Tristan CUMER
+title: cumtr
 
 # Your name to show in the footer
 author: Tristan CUMER
@@ -21,7 +21,9 @@ author: Tristan CUMER
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  CV: "aboutme"
+  Publications: "aboutme"
+  Softwares:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
@@ -39,7 +41,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: "/assets/img/avatar-icon.png"
 
 
 #####################################
