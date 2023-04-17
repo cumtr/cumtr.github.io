@@ -38,31 +38,31 @@ Supervisor: Pompanon François, PhD
 
 ## SCIENTIFIC COMMUNICATIONS
 
-Feb 2023 – Biology 23 - National Congress - Talk
+Feb 2023 – Biology 23 - National Congress - Talk -
 *The genomic architecture of the color polymorphism in the European barn owl (Tyto alba).*
 
-Jan 2022 - Population Genetics Group 54, Liverpool, UK - International Congress - Talk
+Jan 2022 - Population Genetics Group 54, Liverpool, UK - International Congress - Talk -
 *Islands of speciation and speciation on islands: Barn owl (Tyto alba) of the Canary as a case study.*
 
-Aug 2022 – Congress of the European Society For evolutionary biology - International Congress - Poster
+Aug 2022 – Congress of the European Society For evolutionary biology - International Congress - Poster -
 *Landscape and climatic variations of the Quaternary shaped multiple secondary contacts amid barn owls (Tyto alba) of the Western Palearctic.*
 
-May 2022 – Institute of Ecology and Evolution, Bern University – Invited talk
+May 2022 – Institute of Ecology and Evolution, Bern University – Invited talk -
 *Genomic tales: neutral and adaptive history of the barn owl in the western Palearctic*
 
-Feb 2022 – Biology 22 - National Congress - Talk
+Feb 2022 – Biology 22 - National Congress - Talk -
 *Islands of speciation and speciation on islands: Barn owl (Tyto alba) of the Canary as a case study.*
 
-Jan 2020 - Population Genetics Group 53, Liverpool, UK - International Congress – Talk
+Jan 2020 - Population Genetics Group 53, Liverpool, UK - International Congress – Talk -
 *Genomic Tales: An history of European Barn Owl.*
 
-Jan 2017 – Plant and Animal Genomes XXV, San Diego, USA - International Congress - Talk
+Jan 2017 – Plant and Animal Genomes XXV, San Diego, USA - International Congress - Talk -
 *Old origin of a protective endogenous retrovirus (enJSRV) in the Ovis Genus.*
 
-Oct 2016 – SFEcologie 2016, Marseille, France - International Congress - Talk
+Oct 2016 – SFEcologie 2016, Marseille, France - International Congress - Talk -
 *Old origin of an endogenous retroviral protective copy in sheep.*
 
-Jun 2016– JOBIM- National Congress – Talk
+Jun 2016– JOBIM- National Congress – Talk -
 *BAdabouM, a fast tool to detect genomic structural variations.*
 
 
