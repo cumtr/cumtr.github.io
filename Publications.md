@@ -8,7 +8,7 @@ subtitle: Where you can reads about the stuff I'm doing
 
 ### Peer-reviewed
 
-**T Cumer* **, AP Mahcado* et al. “Genomic basis of insularity and ecological divergence in barn owls (Tyto alba) of the Canary Islands”, *Heredity*, 2022.
+**T Cumer\***, AP Machado* et al. “Genomic basis of insularity and ecological divergence in barn owls (Tyto alba) of the Canary Islands”, *Heredity*, 2022.
 
 VarGoats Consortium, **et al.** “Geographical contrasts of Y-chromosomal haplogroups from wild and domestic goats reveal ancient migrations and recent introgressions”, *Molecular Ecology*, 2022.
 
