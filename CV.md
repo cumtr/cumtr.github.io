@@ -7,17 +7,17 @@ subtitle: Where you can learn more about me
 ## RESEARCH EXPERIENCE
 
 - Post-doctoral researcher - First Assistant –Department of Ecology and Evolution (DEE), University of Lausanne, Lausanne (Switzerland)
-	April 2019 - Now | Supervisor: Goudet Jerôme, PhD
+	April 2019 - Now / Supervisor: Goudet Jerôme, PhD
 
 - Attaché temporaire d’Enseignement et de Recherche –Laboratory of Alpine Ecology (LECA), Université Grenoble Alpes, Grenoble (France)
 October 2017 – September 2018
 
 - PhD student – Laboratory of Alpine Ecology (LECA), Université Grenoble Alpes, Grenoble (France)
-September 2014 – December 2017 | Supervisors: Pompanon François, PhD and Boyer Frederic, PhD
+September 2014 – December 2017 / Supervisors: Pompanon François, PhD and Boyer Frederic, PhD
 
 - Research assistant - Laboratory of Alpine Ecology (LECA), Université Grenoble Alpes, Grenoble (France)
-	- Jan - Jun 2014 | Supervisor: Boyer Frédéric, PhD
-	- May – Jun 2013 | Supervisor: Pompanon François, PhD
+	- Jan - Jun 2014 / Supervisor: Boyer Frédéric, PhD
+	- May – Jun 2013 / Supervisor: Pompanon François, PhD
 
 
 ## POST-SECONDARY EDUCATION
@@ -89,13 +89,13 @@ Jun 2016– JOBIM- National Congress – Talk - *BAdabouM, a fast tool to detect
 
 ## SKILLS & LANGUAGES
 
-	- Statistical analysis (R and python) & Programming (shell, awk, c++)
-	- French (Native) - English (Fluent)
+- Statistical analysis (R and python) & Programming (shell, awk, c++)
+- French (Native) - English (Fluent)
 
 ## SOFTWARE DEVELOPMENT
 
-	- BAdabouM – Tool to detect genomic structural variation in whole genome re-sequencing data (c++)
-	- ProcessMyRADs – Pipeline to guide parameter selection during the treatment of ddRAD sequencing data (bash & R)
+- BAdabouM – Tool to detect genomic structural variation in whole genome re-sequencing data (c++)
+- ProcessMyRADs – Pipeline to guide parameter selection during the treatment of ddRAD sequencing data (bash & R)
 
 ## REVIEWING
 
@@ -103,15 +103,13 @@ BMC genetics - Molecular Ecology - Molecular Ecology Ressources - Journal of Ani
 
 ## OUTREACH ACTIVITIES
 
-My PhD in 180 seconds (MT180) - 2017 – regional finalist
-
-Les mysteres de l’UNIL – attelier « Chouettes : un escape-game » - 2023
+- My PhD in 180 seconds (MT180) - 2017 – regional finalist
+- Les mysteres de l’UNIL – attelier « Chouettes : un escape-game » - 2023
 
 ## DEPARTEMENT RESPONSABILITES
 
-PhD student’s representative during my PhD
-
-Member of the Teaching committee of the DEE
+- PhD student’s representative during my PhD
+- Member of the Teaching committee of the DEE
 
 ## EXTRA PROFESSIONAL ACTIVITIES
 
