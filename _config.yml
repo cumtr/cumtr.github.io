@@ -18,8 +18,8 @@ author: Tristan Cumer
 
 navbar-links:
   About Me: "aboutme"
-  CV: "aboutme"
-  Publications: "aboutme"
+  CV: "CV"
+  Publications: "Publications"
   Softwares:
     - BAdabouM: "https://github.com/cumtr/BAdabouM"
     - ProcessMyRADs: "https://github.com/cumtr/PmR"
