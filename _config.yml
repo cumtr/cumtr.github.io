@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: Tristan CUMER
+title: Tristan Cumer
 
 # Your name to show in the footer
-author: cumtr
+author: Tristan Cumer
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -24,9 +24,9 @@ navbar-links:
   CV: "aboutme"
   Publications: "aboutme"
   Softwares:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - BAdabouM: "https://github.com/cumtr/BAdabouM"
+    - ProcessMyRADs: "https://github.com/cumtr/PmR"
+  # Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -51,10 +51,12 @@ title-img: "/assets/img/avatar-icon.png"
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  email: "t.cumer.sci@gmail.com"
+  github: cumtr
+  ORCID: your ORCID ID
+  google-scholar: your google scholar
+# rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
-#  github: daattali
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
@@ -73,15 +75,13 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-  ORCID: your ORCID ID
-  google-scholar: your google scholar
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
@@ -96,7 +96,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "cumtr.com"
+url-pretty: "cumtr.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -116,7 +116,7 @@ edit_page_button: true
 # Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
 # If this setting is off, then long sub-menu words might get cut off
 # See https://github.com/daattali/beautiful-jekyll/issues/765 to understand the issue this setting can solve
-navbar-var-length: false
+navbar-var-length: true
 
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
