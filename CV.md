@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Curiculum Vitae
-subtitle: 
+title: 
+subtitle: Curiculum Vitae
 ---
 
 
