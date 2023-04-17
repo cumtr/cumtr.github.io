@@ -30,6 +30,12 @@ S Sherpa, **et al.** “Unravelling the invasion history of the Asian tiger mosq
 
 KG. Daly, **et al.** "Ancient goat genomes reveal mosaic domestication in the Fertile Crescent", *Science*, 2018.
 
+### Under review
+
+**T Cumer** **\***, AP Mahcado*, L.M. San-Jose* et al. “ The genomic architecture of a continuous color polymorphism in the European barn owl (Tyto alba)”
+
+H. Corval*, **T Cumer** **\***, et al. “ Where and when local adaptation happens: lessons from the European barn owl (Tyto alba)” 
+
 ### Non-peer-reviewed
 
 **T Cumer**, et al. “BAdabouM: a genomic structural variations discovery tool for polymorphism analyses”, *BioRxiv*, 2020.
@@ -37,10 +43,6 @@ KG. Daly, **et al.** "Ancient goat genomes reveal mosaic domestication in the Fe
 ### In prep
 
 **T Cumer**, et al. “Characterization of the diversity of barn owl’s mitochondrial genome reveal high copy number variations in the Dloop.”
-
-**T Cumer** **\***, AP Mahcado*, L.M. San-Jose* et al. “ The genomic architecture of a continuous color polymorphism in the European barn owl (Tyto alba)”
-
-H. Corval*, **T Cumer** **\***, et al. “ Where and when local adaptation happens: lessons from the European barn owl (Tyto alba)” 
 
 **\*** Co-First author if the publication
  
