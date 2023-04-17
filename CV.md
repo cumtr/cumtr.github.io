@@ -87,29 +87,35 @@ Jun 2016– JOBIM- National Congress – Talk - *BAdabouM, a fast tool to detect
 - 2020 & 2022 - Summer Institute in Statistical Genetics (SISG) – Seattle - Teaching Assistant
 - 2018 & 2020 – SIU and Forbio International course in DNA Metabarcoding – Tromso - Teaching assistant
 
+
 ## SKILLS & LANGUAGES
 
 - Statistical analysis (R and python) & Programming (shell, awk, c++)
 - French (Native) - English (Fluent)
+
 
 ## SOFTWARE DEVELOPMENT
 
 - BAdabouM – Tool to detect genomic structural variation in whole genome re-sequencing data (c++)
 - ProcessMyRADs – Pipeline to guide parameter selection during the treatment of ddRAD sequencing data (bash & R)
 
+
 ## REVIEWING
 
 BMC genetics - Molecular Ecology - Molecular Ecology Ressources - Journal of Animal Breeding and Genetics – Plos One
+
 
 ## OUTREACH ACTIVITIES
 
 - My PhD in 180 seconds (MT180) - 2017 – regional finalist
 - Les mysteres de l’UNIL – attelier « Chouettes : un escape-game » - 2023
 
+
 ## DEPARTEMENT RESPONSABILITES
 
 - PhD student’s representative during my PhD
 - Member of the Teaching committee of the DEE
+
 
 ## EXTRA PROFESSIONAL ACTIVITIES
 
