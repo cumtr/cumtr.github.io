@@ -107,14 +107,14 @@ BMC genetics - Molecular Ecology - Molecular Ecology Ressources - Journal of Ani
 
 ## OUTREACH ACTIVITIES
 
-- My PhD in 180 seconds (MT180) - 2017 – regional finalist
-- Les mysteres de l’UNIL – attelier « Chouettes : un escape-game » - 2023
+• My PhD in 180 seconds (MT180) - 2017 – regional finalist
+• Les mysteres de l’UNIL – attelier « Chouettes : un escape-game » - 2023
 
 
 ## DEPARTEMENT RESPONSABILITES
 
-- PhD student’s representative during my PhD
-- Member of the Teaching committee of the DEE
+• PhD student’s representative during my PhD
+• Member of the Teaching committee of the DEE
 
 
 ## EXTRA PROFESSIONAL ACTIVITIES
