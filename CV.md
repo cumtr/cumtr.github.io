@@ -26,7 +26,7 @@ September 2014 – December 2017 / Supervisors: Pompanon François, PhD and Boye
 
 - M. Sc. Biodiversity, Ecology, Evolution, Université Grenoble 1, Grenoble (France), 2012 - 2014
 
- - B. Sc. Biology of organisms, Université Jean Monnet, Saint-Etienne (France), 2009 – 2012
+- B. Sc. Biology of organisms, Université Jean Monnet, Saint-Etienne (France), 2009 – 2012
 
 
 ## SCIENTIFIC COMMUNICATIONS
