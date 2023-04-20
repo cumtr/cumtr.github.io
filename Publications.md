@@ -32,7 +32,7 @@ KG. Daly, **et al.** "Ancient goat genomes reveal mosaic domestication in the Fe
 
 ### Under review
 
-**T Cumer** **\***, AP Mahcado*, L.M. San-Jose* et al. “ The genomic architecture of a continuous color polymorphism in the European barn owl (Tyto alba)” [link](https://www.biorxiv.org/content/10.1101/2023.04.03.535036v1.abstract)
+**T Cumer** **\***, AP Mahcado\*, L.M. San-Jose\* et al. “ The genomic architecture of a continuous color polymorphism in the European barn owl (Tyto alba)” [link](https://www.biorxiv.org/content/10.1101/2023.04.03.535036v1.abstract)
 
 H. Corval*, **T Cumer** **\***, et al. “ Where and when local adaptation happens: lessons from the European barn owl (Tyto alba)” [link](https://www.biorxiv.org/content/10.1101/2023.03.17.533108v1.abstract)
 
