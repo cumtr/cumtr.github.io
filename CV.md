@@ -77,10 +77,10 @@ Jun 2016– JOBIM- National Congress – Talk - *BAdabouM, a fast tool to detect
 •	Student supervision:
 
 - 2017 – C. Her. Genomic structural variations and local adaptation of Moroccan sheep
-- 2020 – H. Corval. Genomic bases of local adaptation in the barn owl (Tyto alba)
-- 2022 – M. Serrano. Characterization of the MT genome of the barn owl (Tyto Alba)
+- 2020 – H. Corval. Genomic bases of local adaptation in the barn owl (*Tyto alba*)
+- 2022 – M. Serrano. Characterization of the MT genome of the barn owl (*Tyto alba*)
 - 2023 – P. Kergoat. Development and application of a novel method to detect selection with genomic data.
-- 2023 – R. Saenger Irias. Genomic history of the color variation of the barn owl (Tyto alba)
+- 2023 – R. Saenger Irias. Genomic history of the color variation of the barn owl (*Tyto alba*)
 
 •	Schools:
 
