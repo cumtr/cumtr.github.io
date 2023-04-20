@@ -121,9 +121,9 @@ BMC genetics - Molecular Ecology - Molecular Ecology Ressources - Journal of Ani
 
 ## DEPARTEMENT RESPONSABILITES
 
-	• PhD student’s representative during my PhD (2015-2018)
-	• Member of the Teaching committee of the DEE (2021-2022)
-	• PostDoc representative (2023-)
+• PhD student’s representative during my PhD (2015-2018)
+• Member of the Teaching committee of the DEE (2021-2022)
+• PostDoc representative (2023-)
 
 
 ## EXTRA PROFESSIONAL ACTIVITIES
