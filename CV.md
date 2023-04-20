@@ -37,7 +37,7 @@ Jan 2022 - Population Genetics Group 54, Liverpool, UK - International Congress 
 
 Aug 2022 – Congress of the European Society For evolutionary biology - International Congress - Poster - *Landscape and climatic variations of the Quaternary shaped multiple secondary contacts amid barn owls (Tyto alba) of the Western Palearctic.*
 
-May 2022 – Institute of Ecology and Evolution, Bern University – Invited talk - *Genomic tales: neutral and adaptive history of the barn owl in the western Palearctic*
+May 2022 – Institute of Ecology and Evolution, Bern University – Invited talk - *Genomic tales: neutral and adaptive history of the barn owl in the western Palearctic.*
 
 Feb 2022 – Biology 22 - National Congress - Talk - *Islands of speciation and speciation on islands: Barn owl (Tyto alba) of the Canary as a case study.*
 
@@ -104,6 +104,14 @@ Jun 2016– JOBIM- National Congress – Talk - *BAdabouM, a fast tool to detect
 
 BMC genetics - Molecular Ecology - Molecular Ecology Ressources - Journal of Animal Breeding and Genetics – Plos One
 
+
+## FIELDWORK
+
+- Barn owl - NestBox controle, phenotypic measurements.
+- Butterfly - Capture & sampling for DNA extraction.
+- Alpine meadows Phenotogy - Field measurements.
+- *Arabis alpina* - phenotypic measurements.
+- ...
 
 ## OUTREACH ACTIVITIES
 
