@@ -20,7 +20,7 @@ navbar-links:
   About Me: "aboutme"
   CV: "CV"
   Publications: "Publications"
-  Softwares:
+  Softwares: "Softwares"
     - BAdabouM: "https://github.com/cumtr/BAdabouM"
     - ProcessMyRADs: "https://github.com/cumtr/PmR"
   # Author's home: "https://deanattali.com"
