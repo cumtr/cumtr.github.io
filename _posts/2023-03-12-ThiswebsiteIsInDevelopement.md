@@ -2,9 +2,10 @@
 layout: post
 title: This Website is under developement
 subtitle: Which is why it's imcomplete
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+cover-img: /assets/img/WIP.jpg
+thumbnail-img: /assets/img/WIP.png
+share-img: /assets/img/WIP.jpg
+
 comments: false
 ---
 
