@@ -2,6 +2,8 @@
 layout: page
 title: Curiculum Vitae
 subtitle: Where you can learn more about me
+cover-img: /assets/img/GraduationCap_1.jpg
+share-img: /assets/img/GraduationCap_1.jpg
 ---
 
 ## RESEARCH EXPERIENCE
