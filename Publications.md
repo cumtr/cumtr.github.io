@@ -2,6 +2,8 @@
 layout: page
 title: List of publications
 subtitle: Where you can reads about the stuff I'm doing
+cover-img: /assets/img/OpenBook.jpg
+share-img: /assets/img/OpenBook.jpg
 ---
 
 ## PUBLICATIONS
