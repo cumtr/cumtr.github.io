@@ -98,8 +98,8 @@ Jun 2016– JOBIM- National Congress – Talk - *BAdabouM, a fast tool to detect
 
 ## SOFTWARE DEVELOPMENT
 
-- BAdabouM – Tool to detect genomic structural variation in whole genome re-sequencing data (c++)
-- ProcessMyRADs – Pipeline to guide parameter selection during the treatment of ddRAD sequencing data (bash & R)
+- BAdabouM – Tool to detect genomic structural variation in whole genome re-sequencing data (c++)[link](https://github.com/cumtr/BAdabouM)
+- ProcessMyRADs – Pipeline to guide parameter selection during the treatment of ddRAD sequencing data (bash & R)[link](https://github.com/cumtr/PmR)
 
 
 ## REVIEWING
