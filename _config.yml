@@ -17,7 +17,7 @@ author: Tristan Cumer
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  # About Me: "aboutme"
   CV: "CV"
   Publications: "Publications"
   Softwares:
