@@ -10,6 +10,10 @@ share-img: /assets/img/OpenBook.jpg
 
 ### Peer-reviewed
 
+MJ. Serrano, J. Goudet, **T. Cumer**. “Characterization of the diversity of barn owl’s mitochondrial genome reveal high copy number variations in the Dloop.” *Plos ONE* [link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295595)
+
+**T. Cumer** **\***, A.P. Mahcado\*, L.M. San-Jose\*, et al. “ The genomic architecture of a continuous color polymorphism in the European barn owl (Tyto alba)”, *Proceedings of the Royal Society B*. [link](https://royalsocietypublishing.org/doi/10.1098/rspb.2023.1995)
+
 **T. Cumer** **\***, A.P. Machado* et al. “Genomic basis of insularity and ecological divergence in barn owls (Tyto alba) of the Canary Islands”, *Heredity*, 2022. [link](https://www.nature.com/articles/s41437-022-00562-w)
 
 VarGoats Consortium, **et al.** “Geographical contrasts of Y-chromosomal haplogroups from wild and domestic goats reveal ancient migrations and recent introgressions”, *Molecular Ecology*, 2022. [link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.16579)
@@ -34,7 +38,9 @@ K.G. Daly, **et al.** "Ancient goat genomes reveal mosaic domestication in the F
 
 ### Under review
 
-**T. Cumer** **\***, A.P. Mahcado\*, L.M. San-Jose\*, et al. “ The genomic architecture of a continuous color polymorphism in the European barn owl (Tyto alba)”, *BioRxiv*. [link](https://www.biorxiv.org/content/10.1101/2023.04.03.535036v1.abstract)
+A. Topaloudis, , **et al.** "The recombination landscape of the barn owl, from families to populations", *BioRxiv*. [link](https://www.biorxiv.org/content/10.1101/2024.04.11.589103v1.abstract)
+
+J Goudet, **et al.** "Too big to purge: persistence of deleterious mutations in island populations of the European barn owl (Tyto alba)", *ReserchSquare* [link](https://www.researchsquare.com/article/rs-4324586/v1)
 
 H. Corval*, **T. Cumer** **\***, et al. “ Where and when local adaptation happens: lessons from the European barn owl (Tyto alba)”, *BioRxiv*. [link](https://www.biorxiv.org/content/10.1101/2023.03.17.533108v1.abstract)
 
@@ -44,7 +50,7 @@ H. Corval*, **T. Cumer** **\***, et al. “ Where and when local adaptation happ
 
 ### In prep
 
-**T. Cumer**, et al. “Characterization of the diversity of barn owl’s mitochondrial genome reveal high copy number variations in the Dloop.” 
+**T. Cumer**, et al. “Genomic bases of rapid evolution in the wild revealed by long term monitoring and population-wide sequencing”
 
 **\*** Co-First author of the publication
  
