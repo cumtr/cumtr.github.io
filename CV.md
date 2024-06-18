@@ -8,8 +8,14 @@ share-img: /assets/img/GraduationCap_1.jpg
 
 ## RESEARCH EXPERIENCE
 
-- Post-doctoral researcher - First Assistant –Department of Ecology and Evolution (DEE), University of Lausanne, Lausanne (Switzerland)
-	April 2019 - Now / Supervisor: Goudet Jerôme, PhD
+- Established resercher II - Oberassistanten –, ETH, Zurich (Switzerland)
+	April 2024 - Now / Collaboration with Hubert Pausch, PhD
+
+- External scientific collaborator – Department of Ecology and Evolution (DEE), University of Lausanne, Lausanne (Switzerland)
+	April 2024 - Now / collaborations with : Goudet Jerôme, PhD - Van de Waal Erica, PhD - Fumagalli Luca, PhD 
+
+- Post-doctoral researcher - First Assistant – Department of Ecology and Evolution (DEE), University of Lausanne, Lausanne (Switzerland)
+	April 2019 - 2024 / Supervisor: Goudet Jerôme, PhD
 
 - Attaché temporaire d’Enseignement et de Recherche –Laboratory of Alpine Ecology (LECA), Université Grenoble Alpes, Grenoble (France)
 October 2017 – September 2018
