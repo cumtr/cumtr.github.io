@@ -8,7 +8,7 @@ share-img: /assets/img/GraduationCap_1.jpg
 
 ## RESEARCH EXPERIENCE
 
-- Established resercher II - Oberassistanten –, ETH, Zurich (Switzerland)
+- Established resercher - Oberassistanten / reader –, ETH, Zurich (Switzerland)
 	April 2024 - Now / Collaboration with Hubert Pausch, PhD
 
 - External scientific collaborator – Department of Ecology and Evolution (DEE), University of Lausanne, Lausanne (Switzerland)
