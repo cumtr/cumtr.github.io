@@ -8,20 +8,20 @@ share-img: /assets/img/GraduationCap_1.jpg
 
 ## RESEARCH EXPERIENCE
 
-- Established resercher - Oberassistanten / reader –, ETH, Zurich (Switzerland)
-may 2024 - Now / Collaboration with Hubert Pausch, PhD
+- Established resercher - Oberassistanten / Reader –, ETH, Zurich (Switzerland)
+	- may 2024 - Now / Collaboration with Hubert Pausch, PhD
 
 - External scientific collaborator – Department of Ecology and Evolution (DEE), University of Lausanne, Lausanne (Switzerland)
-May 2024 - Now / collaborations with : Goudet Jerôme, PhD - Van de Waal Erica, PhD - Fumagalli Luca, PhD 
+	- May 2024 - Now / collaborations with : Goudet Jerôme, PhD - Van de Waal Erica, PhD - Fumagalli Luca, PhD 
 
 - Post-doctoral researcher - First Assistant – Department of Ecology and Evolution (DEE), University of Lausanne, Lausanne (Switzerland)
-	April 2019 - March 2024 / Supervisor: Goudet Jerôme, PhD
+	- April 2019 - March 2024 / Supervisor: Goudet Jerôme, PhD
 
 - Attaché temporaire d’Enseignement et de Recherche –Laboratory of Alpine Ecology (LECA), Université Grenoble Alpes, Grenoble (France)
-October 2017 – September 2018
+	- October 2017 – September 2018
 
 - PhD student – Laboratory of Alpine Ecology (LECA), Université Grenoble Alpes, Grenoble (France)
-September 2014 – December 2017 / Supervisors: Pompanon François, PhD and Boyer Frederic, PhD
+	- September 2014 – December 2017 / Supervisors: Pompanon François, PhD and Boyer Frederic, PhD
 
 - Research assistant - Laboratory of Alpine Ecology (LECA), Université Grenoble Alpes, Grenoble (France)
 	- Jan - Jun 2014 / Supervisor: Boyer Frédéric, PhD
@@ -115,6 +115,7 @@ Laureate of the “special award for outstanding dedication in practical teachin
 - BAdabouM – Tool to detect genomic structural variation in whole genome re-sequencing data (c++)[link](https://github.com/cumtr/BAdabouM)
 - ProcessMyRADs – Pipeline to guide parameter selection during the treatment of ddRAD sequencing data (bash & R)[link](https://github.com/cumtr/PmR)
 
+
 ## FUNDING ACQUISITION
 
 **PhD grant** – thesis scholarship from the French Ministry of Research (**100k EUR**)
@@ -122,13 +123,16 @@ Laureate of the “special award for outstanding dedication in practical teachin
 **Agassiz Foundation** - From Waste to Knowledge: advancing research and conservation
 through genomic analysis of non-invasive samples (**20k CHF**)
 
+
 ## REVIEWING
 
 BMC genetics - Molecular Ecology - Molecular Ecology Resources - Journal of Animal Breeding and Genetics – PLOS One – BMC genomics – Scientific Data
 
+
 ## FIELDWORK
 
 Field sampling and phenotyping (Butterfly - *Coenonympha sp.* / plant - *Arabis alpina*). Radiotracking (bats - *Barbastella barbastellus* / raven - *Corvus corax*). Nest boxes controls & clutch measurements (Barn owl - *Tyto alba*).
+
 
 ## OUTREACH ACTIVITIES
 
@@ -138,9 +142,9 @@ Field sampling and phenotyping (Butterfly - *Coenonympha sp.* / plant - *Arabis 
 
 ## DEPARTEMENT RESPONSABILITES
 
-• PhD student’s representative during my PhD (2015-2018)
-• Member of the Teaching committee of the DEE (2021-2022)
-• PostDoc representative (2023-2024)
+- PhD student’s representative during my PhD (2015-2018)
+- Member of the Teaching committee of the DEE (2021-2022)
+- PostDoc representative (2023-2024)
 
 
 ## EXTRA PROFESSIONAL ACTIVITIES
