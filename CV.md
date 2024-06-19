@@ -39,6 +39,10 @@ September 2014 – December 2017 / Supervisors: Pompanon François, PhD and Boye
 
 ## SCIENTIFIC COMMUNICATIONS
 
+Jan 2024 – Biology 24 - National Congress - Talk - *Quantitative genetics and population genomics goes wild: Short term evolution of the Swiss barn owl (Tyto alba).*
+
+Jul 2023 – Congress of the Society for Molecular Biology and Evolution (SMBE) - International Congress - Poster - *The genomic architecture of a continuous color variation in the European barn owl (Tyto alba).*
+
 Feb 2023 – Biology 23 - National Congress - Talk - *The genomic architecture of the color polymorphism in the European barn owl (Tyto alba).*
 
 Jan 2022 - Population Genetics Group 54, Liverpool, UK - International Congress - Talk - *Islands of speciation and speciation on islands: Barn owl (Tyto alba) of the Canary as a case study.*
@@ -82,6 +86,8 @@ Jun 2016– JOBIM- National Congress – Talk - *BAdabouM, a fast tool to detect
 	- 2015–2017	Ecology (1st year Master)
 	- 2018 		Ecology (2nd and 3rd year Undergrad)
 
+Laureate of the “special award for outstanding dedication in practical teaching” of the Faculty of Biology and Medicine, University of Lausanne, 2021.
+
 •	Student supervision:
 
 - 2017 – C. Her. Genomic structural variations and local adaptation of Moroccan sheep
@@ -89,6 +95,8 @@ Jun 2016– JOBIM- National Congress – Talk - *BAdabouM, a fast tool to detect
 - 2022 – M. Serrano. Characterization of the MT genome of the barn owl (*Tyto alba*)
 - 2023 – P. Kergoat. Development and application of a novel method to detect selection with genomic data.
 - 2023 – R. Saenger Irias. Genomic history of the color variation of the barn owl (*Tyto alba*)
+- 2023 – A. Hartaoui.  Reconstruction of the phylogeny of the barn owl (Tyto sp.) using mitochondrial genomes.
+- 2023 – C. Torres. Unveiling colour traits of the barn owl with AI image analysis.
 
 •	Schools:
 
@@ -107,19 +115,20 @@ Jun 2016– JOBIM- National Congress – Talk - *BAdabouM, a fast tool to detect
 - BAdabouM – Tool to detect genomic structural variation in whole genome re-sequencing data (c++)[link](https://github.com/cumtr/BAdabouM)
 - ProcessMyRADs – Pipeline to guide parameter selection during the treatment of ddRAD sequencing data (bash & R)[link](https://github.com/cumtr/PmR)
 
+## FUNDING ACQUISITION
+
+**PhD grant** – thesis scholarship from the French Ministry of Research (**100k EUR**)
+**Internal Project Call (LECA)** – Optimisation of the pre- and post-sequencing parameters for the ddRAD protocol (**10k EUR**)
+**Agassiz Foundation** - From Waste to Knowledge: advancing research and conservation
+through genomic analysis of non-invasive samples (**20k CHF**)
 
 ## REVIEWING
 
-BMC genetics - Molecular Ecology - Molecular Ecology Ressources - Journal of Animal Breeding and Genetics – Plos One
-
+BMC genetics - Molecular Ecology - Molecular Ecology Resources - Journal of Animal Breeding and Genetics – PLOS One – BMC genomics – Scientific Data
 
 ## FIELDWORK
 
-- Barn owl - NestBox controle, phenotypic measurements.
-- Butterfly - Capture & sampling for DNA extraction.
-- Alpine meadows Phenotogy - Field measurements.
-- *Arabis alpina* - phenotypic measurements.
-- ...
+Field sampling and phenotyping (Butterfly - *Coenonympha sp.* / plant - *Arabis alpina*). Radiotracking (bats - *Barbastella barbastellus* / raven - *Corvus corax*). Nest boxes controls & clutch measurements (Barn owl - *Tyto alba*).
 
 ## OUTREACH ACTIVITIES
 
@@ -131,7 +140,7 @@ BMC genetics - Molecular Ecology - Molecular Ecology Ressources - Journal of Ani
 
 • PhD student’s representative during my PhD (2015-2018)
 • Member of the Teaching committee of the DEE (2021-2022)
-• PostDoc representative (2023-)
+• PostDoc representative (2023-2024)
 
 
 ## EXTRA PROFESSIONAL ACTIVITIES
