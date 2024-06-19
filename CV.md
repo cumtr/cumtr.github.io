@@ -8,7 +8,7 @@ share-img: /assets/img/GraduationCap_1.jpg
 
 ## RESEARCH EXPERIENCE
 
-- Established resercher - Oberassistanten / Reader –, ETH, Zurich (Switzerland)
+- Established resercher - Oberassistanten / Reader –USYS, ETH, Zurich (Switzerland)
 	- may 2024 - Now / Collaboration with Hubert Pausch, PhD
 
 - External scientific collaborator – Department of Ecology and Evolution (DEE), University of Lausanne, Lausanne (Switzerland)
@@ -118,10 +118,9 @@ Laureate of the “special award for outstanding dedication in practical teachin
 
 ## FUNDING ACQUISITION
 
-**PhD grant** – thesis scholarship from the French Ministry of Research (**100k EUR**)
-**Internal Project Call (LECA)** – Optimisation of the pre- and post-sequencing parameters for the ddRAD protocol (**10k EUR**)
-**Agassiz Foundation** - From Waste to Knowledge: advancing research and conservation
-through genomic analysis of non-invasive samples (**20k CHF**)
+- **PhD grant** – thesis scholarship from the French Ministry of Research (**100k EUR**)
+- **Internal Project Call (LECA)** – Optimisation of the pre- and post-sequencing parameters for the ddRAD protocol (**10k EUR**)
+-  **Agassiz Foundation** - From Waste to Knowledge: advancing research and conservation through genomic analysis of non-invasive samples (**20k CHF**)
 
 
 ## REVIEWING
@@ -131,20 +130,22 @@ BMC genetics - Molecular Ecology - Molecular Ecology Resources - Journal of Anim
 
 ## FIELDWORK
 
-Field sampling and phenotyping (Butterfly - *Coenonympha sp.* / plant - *Arabis alpina*). Radiotracking (bats - *Barbastella barbastellus* / raven - *Corvus corax*). Nest boxes controls & clutch measurements (Barn owl - *Tyto alba*).
+- Field sampling and phenotyping (Butterfly - *Coenonympha sp.* / plant - *Arabis alpina*).
+- Radiotracking (bats - *Barbastella barbastellus* / raven - *Corvus corax*).
+- Nest boxes controls & clutch measurements (Barn owl - *Tyto alba*).
 
 
 ## OUTREACH ACTIVITIES
 
-• My PhD in 180 seconds (MT180) - 2017 – regional finalist
-• Les mysteres de l’UNIL – attelier « Chouettes : un escape-game » - 2023
+- My PhD in 180 seconds (MT180) - 2017 – regional finalist
+- Les mysteres de l’UNIL – atelier « Chouettes : un escape-game » - 2023
 
 
 ## DEPARTEMENT RESPONSABILITES
 
 - PhD student’s representative during my PhD (2015-2018)
 - Member of the Teaching committee of the DEE (2021-2022)
-- PostDoc representative (2023-2024)
+- PostDoc representative of the DEE (2023-2024)
 
 
 ## EXTRA PROFESSIONAL ACTIVITIES
