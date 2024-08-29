@@ -7,10 +7,10 @@ thumbnail-img: /assets/img/LemanAlpes.jpg
 # share-img: /assets/img/LemanAlpes.jpg
 ---
 
-My name is Tristan Cumer. I'm a post-Doc at the university of Lausanne.
+Understanding how populations evolve through time and space, adapt to new or varying environments, and diversify into distinct species is fascinating. My work focuses on the genomic bases and consequences of these evolutionary processes by retracing the history of species, identifying genomic regions involved in organismal adaptation to their environments, and linking genomic variations with phenotypic traits. I have a particular interest in genomic structural variations and their role in evolution.
 
-Understand how populations evolves through time and space and adapts to their new or varying environment is fascinating. My work focuses on the genomic bases and consequences of these evolutionary processes, by retracing the history of the species, identify genomic regions involved organism adaptation to their environments as well as linking genomic variations with phenotypes traits. I have special interest in genomic structural variations and their role in evolution.
+During my PhD, I studied the genomic basis of the domestication of sheep and goats. Specifically, I examined the impact of the domestication process and subsequent adaptation to different environments on the genome of small ruminants, with a focus on genomic structural variations.
 
-During my PhD, I worked on the genomic basis of the domestication of sheep and goats. More precisely, I studied the impact of the domestication process and the subsequent adaptation to different environment on the genome of small ruminants.
+As a post-doc at the University of Lausanne, I investigated the history and evolution of the European barn owl (*Tyto alba*). By integrating genomic and ecological data, I focused on uncovering the historical trajectories of various populations and subspecies within the Western Palearctic, identifying the evolutionary forces shaping them, and exploring how these forces have impacted the genome of this nocturnal raptor.
 
-As a post-doc, I’m now studying the history and evolution of the European barn owl. Using genomic and ecological informations, my main questions focuses on understanding the history of the different populations in the Western Palearctic, describe the evolutionary forces acting on them and their consequences on the genome of this nocturnal raptor.
+In my current position at ETH Zurich, I am characterizing the neutral and adaptive history of two cattle lineages, *Bos taurus taurus* and *Bos taurus indicus*. With the help of pan-genome approaches, I aim to integrate all types of genetic variations to refine our knowledge of the domestication of this species.
