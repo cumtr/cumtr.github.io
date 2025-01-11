@@ -10,7 +10,11 @@ share-img: /assets/img/OpenBook.jpg
 
 ### Peer-reviewed
 
-MJ. Serrano, J. Goudet, **T. Cumer**. “Characterization of the diversity of barn owl’s mitochondrial genome reveal high copy number variations in the Dloop.” *Plos ONE* [link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295595)
+E. Lavanchy, **T. Cumer**, et al. “Too big to purge: persistence of deleterious Mutations in Island populations of the European Barn Owl (Tyto alba)” *Heredity* [link](https://www.nature.com/articles/s41437-024-00728-8)
+
+A. Topaloudis, **T. Cumer** , et al. “The recombination landscape of the barn owl, from families to populations” *Genetics* [link](https://academic.oup.com/genetics/article/229/1/1/7900905)
+
+MJ. Serrano, J. Goudet, **T. Cumer**. “Characterization of the diversity of barn owl’s mitochondrial genome reveal high copy number variations in the Dloop” *Plos ONE* [link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295595)
 
 **T. Cumer** **\***, A.P. Mahcado\*, L.M. San-Jose\*, et al. “ The genomic architecture of a continuous color polymorphism in the European barn owl (Tyto alba)”, *Proceedings of the Royal Society B*. [link](https://royalsocietypublishing.org/doi/10.1098/rspb.2023.1995)
 
@@ -37,10 +41,6 @@ S. Sherpa, **et al.** “Unravelling the invasion history of the Asian tiger mos
 K.G. Daly, **et al.** "Ancient goat genomes reveal mosaic domestication in the Fertile Crescent", *Science*, 2018. [link](https://www.science.org/doi/full/10.1126/science.aas9411)
 
 ### Under review
-
-A. Topaloudis, , **et al.** "The recombination landscape of the barn owl, from families to populations", *BioRxiv*. [link](https://www.biorxiv.org/content/10.1101/2024.04.11.589103v1.abstract)
-
-J Goudet, **et al.** "Too big to purge: persistence of deleterious mutations in island populations of the European barn owl (Tyto alba)", *ReserchSquare* [link](https://www.researchsquare.com/article/rs-4324586/v1)
 
 H. Corval*, **T. Cumer** **\***, et al. “ Where and when local adaptation happens: lessons from the European barn owl (Tyto alba)”, *BioRxiv*. [link](https://www.biorxiv.org/content/10.1101/2023.03.17.533108v1.abstract)
 
